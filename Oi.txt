@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt_BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Produtos</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <H1>Categoria de produtos</H1>
+    <h2>TVs</h2>
+     <ul id="primary-list"> 
+        <li class="first"> 
+            <H3>Modelo: Smart Tv 75'' 4K Uhd Samsung U8600f 2025 - Bivolt </H3>
+            <img src="smart-tv-75-u8600-samsung_1222603.jpeg" alt="Imagem de televisão modelo samsung">
+            <h4 class="text-green">R$ 5.499,90<h4>
+            <h5 class="text-green">R$ 549,99 em 10x</h5>
+            <a target="_blank" href="https://www.havan.com.br/smart-tv-75-u8600-samsung-diversos/p">Mais detalhes</a>
+        </li>
+        <li>
+            <H3>Modelo: Smart Tv 55" Lg Qned73 4K Ai A7 Webos Google Cast</H3>
+            <img src="smart-tv-55-lg-qned73-4k-ai-a7-webos-google-cast_1253938.jpg" alt="Imagem de televisão modelo lg">
+            <h4 class="text-green">R$ 3.699,90<h4>
+            <h5 class="text-green">R$ 369,99 em 10x</h5>
+            <a target="_blank" href="https://www.havan.com.br/smart-tv-55-lg-qned73-4k-ai-a7-webos-google-cast-diversos/p">Mais detalhes</a>
+        </li>
+     </ul> 
+</body>
+<body>
+    <h2>Acessórios</h2>
+     <ul id="second-list">
+        <li class="second">
+            <H3>Receptor Digital De Tv Via Satélite Com Antena Sat 800 Intelbras - Preto</H3>
+            <img src="receptor-digital-de-tv-via-satelite-com-antena-sat-800-intelbras_807209.webp" alt="Antena para TV">
+            <h4 class="text-green">R$ 399,90<h4>
+            <h5 class="text-green">R$ 39,90 em 10x</h5>
+            <a target="_blank" href="https://www.havan.com.br/receptor-digital-de-tv-via-satelite-com-antena-sat-800-intelbras-preto/p">Mais detalhes</a>
+        </li>
+        <li>
+            <H3>Antena Starlink Internet Via Satélite Standard Kit V4 - Branco</H3>
+            <img src="antena-starlink-internet-via-satelite-standard-kit-v4_1182880.jpg" alt="Starlink">
+            <h4 class="text-green">R$ 2.799,90<h4>
+            <h5 class="text-green">R$ 279,99 em 10x</h5>
+            <a target="_blank" href="https://www.havan.com.br/antena-starlink-internet-via-satelite-standard-kit-v4-branco/p">Mais detalhes</a>
+        </li>
+     </ul>
+</body>
